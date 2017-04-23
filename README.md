@@ -1,4 +1,4 @@
-# BC-Demo App
+# Redux Dash
 
 ## Build & development
 
